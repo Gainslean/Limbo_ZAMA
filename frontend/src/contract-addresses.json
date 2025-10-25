@@ -1,10 +1,10 @@
 {
-  "LETH": "0x0000000000000000000000000000000000000000",
-  "LUSDT": "0x0000000000000000000000000000000000000000",
-  "LIMBO": "0x0000000000000000000000000000000000000000",
-  "chainId": 0,
-  "chainIdHex": "0x0",
-  "chainName": "Set by run.sh",
-  "symbol": "",
-  "rpcUrl": ""
+  "LETH": "0x283E8a797D6d0A04E7dC8C575741fc0f703657E4",
+  "LUSDT": "0x9b3a9D36FA7dfBcb49e4085169767027E2b48318",
+  "LIMBO": "0x1035846E98A1b2DCE0eC82a49E21b209E42a8E9c",
+  "chainId": 11155111,
+  "chainIdHex": "0xaa36a7",
+  "chainName": "Zama Devnet",
+  "symbol": "ZAMA",
+  "explorer": ""
 }
